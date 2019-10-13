@@ -1,4 +1,0 @@
-F:\Source Code\Outstanding Tickets\OutstandingApiHelpers\OutstandingApiHelpers\bin\Debug\OutstandingApiHelpers.dll
-F:\Source Code\Outstanding Tickets\OutstandingApiHelpers\OutstandingApiHelpers\bin\Debug\OutstandingApiHelpers.pdb
-F:\Source Code\Outstanding Tickets\OutstandingApiHelpers\OutstandingApiHelpers\obj\Debug\OutstandingApiHelpers.dll
-F:\Source Code\Outstanding Tickets\OutstandingApiHelpers\OutstandingApiHelpers\obj\Debug\OutstandingApiHelpers.pdb
