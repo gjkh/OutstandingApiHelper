@@ -55,6 +55,7 @@
     <Compile Include="IWebGuestCustomer.cs" />
     <Compile Include="IWebLogin.cs" />
     <Compile Include="IWebPayment.cs" />
+    <Compile Include="IWebSecurePayment.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="WebBasketItemType.cs" />
   </ItemGroup>
