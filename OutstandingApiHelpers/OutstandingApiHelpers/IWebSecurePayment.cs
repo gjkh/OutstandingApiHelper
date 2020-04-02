@@ -15,6 +15,7 @@ namespace OutstandingApiHelpers
         string CardName { get; set; }
         string CardPostCode { get; set; }
         decimal PaymentAmount { get; set; }
+        string IpAddress { get; set; }
 
     }
 }
